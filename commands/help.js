@@ -40,7 +40,7 @@ if (!args[0]) {
           output += `\u200b\n== ${cat} ==\n`;
           currentCategory = cat;
         }
-        output += `${settings.prefix}${c.help.name}${" ".repeat(longest - c.help.name.length)}, `;
+        output += `${c.help.name}${"".repeat(longest - c.help.name.length)}, `;
       });
       message.channel.send(output, {code:"asciidoc", split: { char: "\u200b" }});
     } else {

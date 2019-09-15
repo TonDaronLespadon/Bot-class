@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/TonDaronLespadon/Supremacy"
+    "url": "git+https://https://github.com/TonDaronLespadon/Supremacys"
   },
   "author": "TonDaronLespadon",
   "contributors": [
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://https://github.com/TonDaronLespadon/Supremacy/issues"
+    "url": "https://https://github.com/TonDaronLespadon/Supremacys/issues"
   },
-  "homepage": "https://https://github.com/TonDaronLespadon/Supremacy#readme",
+  "homepage": "https://https://github.com/TonDaronLespadon/Supremacys#readme",
   "dependencies": {
     "better-sqlite-pool": "^0.2.2",
     "better-sqlite3": "^5.4.1",
